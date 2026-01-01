@@ -1,0 +1,4 @@
+To use:
+; go install github.com/fgergo/ramfswithsrv9p@latest
+; ramfswithsrv9p&
+; 9 mount `namespace`/ramfswithsrv9p /n/ramfswithsrv9p
