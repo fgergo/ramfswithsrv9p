@@ -1,0 +1,4 @@
+9fans.net/go v0.0.8-0.20250307142834-96bdba94b63f h1:1C7nZuxUMNz7eiQALRfiqNOm04+m3edWlRff/BYHf0Q=
+9fans.net/go v0.0.8-0.20250307142834-96bdba94b63f/go.mod h1:hHyrZRryGqVdqrknjq5OWDLGCTJ2NeEvtrpR96mjraM=
+github.com/fgergo/p9plib v0.0.6 h1:sWrJjxdjD7h3cqr1iySyFth8WA/Wvrl+B7eKadH+mRs=
+github.com/fgergo/p9plib v0.0.6/go.mod h1:gSffpk0W1vbra0YF++wfBEF5voA7OXDiwyoYKLo4EDk=
